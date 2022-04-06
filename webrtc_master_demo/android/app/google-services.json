@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001994231552",
+    "project_id": "edtech-dev-a0299",
+    "storage_bucket": "edtech-dev-a0299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001994231552:android:bd2c525602751140a31de5",
+        "android_client_info": {
+          "package_name": "com.inventam.edtech_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001994231552-v1dh5ggr0krthvea9jqoqk6049qulsqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inventam.edtech_app",
+            "certificate_hash": "f9e68c265745e45e728729ee21a6e925e7efa8c0"
+          }
+        },
+        {
+          "client_id": "1001994231552-c4fa6s5vvhgak41t4mpfjqro3ad5rmcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFuBuiRmma1edFSwiqoWor1qZsrKvWwUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001994231552-c4fa6s5vvhgak41t4mpfjqro3ad5rmcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
